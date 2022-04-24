@@ -1,10 +1,16 @@
 # Collaborative Filter Recommendation System for Movie Ratings
 
-#### Motivation
+1. Motivation
+2. Goal
+3. Methodology
+4. Optimization Challenges
+{:toc}
 
-Goal/Purpose/Value
+### Motivation
 
-Step by step How To - include tools used
+### Goal/Purpose/Value
 
-Optimizations and Challenges faced
+### Step by step How To - include tools used
+
+### Optimizations Challenges
 
